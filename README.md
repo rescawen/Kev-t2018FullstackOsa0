@@ -3,3 +3,5 @@
 web-sovellusten perusteet 
 
 0.1 HTML ja CSS: http://htmlpreview.github.io/?https://github.com/rescawen/Kevat2018FullstackOsa0/blob/master/mozillatutorial.html
+
+0.2 HTML:n lomakkeet: http://htmlpreview.github.io/?https://github.com/rescawen/Kevat2018FullstackOsa0/blob/master/form.html
